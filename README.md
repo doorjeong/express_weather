@@ -15,3 +15,7 @@
 npm install
 node app.js 혹은 npm start
 ```
+
+# 참고
+- forecastIO는 Dark Sky로 바뀜
+- forecastIO에서 개인키를 받아야하므로 사이트 가입 후, 개인키 생성 필수
